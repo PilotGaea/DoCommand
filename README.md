@@ -3,7 +3,7 @@ PilotGaea O’view Map Server DoCommand Plugin
 
 [開發者文件](https://nlscsample.pilotgaea.com.tw/demo/ProgrammingGuide/src/04.ServerSidePlugin/04.2_PluginSample.html#docommand)
 
-## DoCommand 介紹：
+## Map Server Plugin 介紹：
 
 在O’view Map Server下，共有以下四種類型的外掛可供自訂：
 
