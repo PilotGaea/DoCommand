@@ -1,0 +1,8 @@
+D:\公司文件\Map Server Plugin\DoCommand\bin\Debug\DoCommand.dll
+D:\公司文件\Map Server Plugin\DoCommand\bin\Debug\DoCommand.pdb
+D:\公司文件\Map Server Plugin\DoCommand\bin\Debug\TMPEngine.dll
+D:\公司文件\Map Server Plugin\DoCommand\bin\Debug\TMPEngine.xml
+D:\公司文件\Map Server Plugin\DoCommand\obj\Debug\DoCommand.csproj.CoreCompileInputs.cache
+D:\公司文件\Map Server Plugin\DoCommand\obj\Debug\DoCommand.csproj.CopyComplete
+D:\公司文件\Map Server Plugin\DoCommand\obj\Debug\DoCommand.dll
+D:\公司文件\Map Server Plugin\DoCommand\obj\Debug\DoCommand.pdb
